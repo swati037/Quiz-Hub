@@ -1,11 +1,13 @@
 # Quiz-Hub
 
+
 ## OBJECTIVE:
 • The application focuses on creating a well-defined exam/quiz to provide a common platform to connect students and teachers online.
 • Conduct the exam effortlessly.
 • Quick Result Processing.
 • All questions are stored in the databases, which reduces the manual work of every teacher.
 • Reduce exam anxiety among the students.
+
 
 
 ## FEATURES:
@@ -18,10 +20,12 @@
 • Can view all the students result and hence can view the result statistically according to the marks.
 • Teachers will be creating a timer-based exam.
 
+
 ### Students :
-• Need to login in order to attempt the quiz. 
-• After completing all questions, the result will be displayed automatically.
-• In case the timer runs out, the application will calculate the score automatically and direct us to the result page.
+* Need to login in order to attempt the quiz. 
+* After completing all questions, the result will be displayed automatically.
+* In case the timer runs out, the application will calculate the score automatically and direct us to the result page.
+
 
 
 ## TOOLS AND SOFTWARE IMPLEMENTED:
